@@ -55,4 +55,22 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Anamika</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Anamika282004</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/anamika-%E2%80%8E-878948257/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Bakhtiyarpur college of engineering </td>
+  </tr>
+</table>
 
